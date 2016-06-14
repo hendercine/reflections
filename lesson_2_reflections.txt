@@ -7,3 +7,11 @@ because it does just what its name suggests; it stages files that are to be
 committed from the WorkDir into the Repo. This has great value in that you can
 make changes to multiple files but then ultimately add them to the same commit
 when they are logically connected to each other.
+
+You can use the staging area to make sure you have one commit per logical
+change with the git diff and git --staged commands. If you've modified
+multiple files that are different logical changes, you can stage the first one
+and move onto the next file. When you're finished with the second file you can
+run git diff --staged to see which files are already staged and git diff to
+see which are not. This allows you to quickly see and organize your logical
+separation of commits.

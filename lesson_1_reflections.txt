@@ -1,0 +1,24 @@
+Viewing a diff between two versions of a file really helped me see the bug that
+was introduced. I wish I had known about this method sooner.
+
+Having easy access to the entire history of a file cold have huge impact on
+efficiency as a programmer in the long term because it could help one identify
+common recurring mistakes that one makes and allow one to quickly debug problems
+with one's code.
+
+The pros of manually choosing when to create a commit in git are that you can
+managae the size of the commits and make sure they are logical. The cons are
+that this is prone to user error and musch less convienient if you forget to
+commit.
+
+Some VCSs, like Git, allow saving multiple files in one commit because they are
+designed to work with programming files, which often have multiple, inter-
+related files involved. Others, like Google Docs, are more for more typical
+files and documents that stand alone and do not have other files connected to
+them that affect their output.
+
+Using version control might make you so much more confident in making changes
+that could break something, because you know that you can not only revert to
+previous versions but also find out exactly what mistake was made when.
+
+I'm eager to eventually try using Git to track my next nanodegree work.

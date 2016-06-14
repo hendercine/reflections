@@ -1,0 +1,9 @@
+When you initialize a repository a hidden file is created called .git that is
+needed to keep track of your commits and other meta-data that is required to
+maintain version control.
+
+The Staging Area is different from the Working Directory and the Repository
+because it does just what its name suggests; it stages files that are to be
+committed from the WorkDir into the Repo. This has great value in that you can
+make changes to multiple files but then ultimately add them to the same commit
+when they are logically connected to each other.

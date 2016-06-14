@@ -22,3 +22,7 @@ master or when, in the case of the asteroids game, you might want to create an
 easy mode version of the game. Branches help by allowing you to create these
 different versions without having to start over or worry about breaking your
 master version.
+
+The diagrams help you visualize the branch structure by allowing you to see
+where each branch diverges from the master branch and therefore, also where the
+master may have gone ahead of your other branches.

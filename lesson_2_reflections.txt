@@ -15,3 +15,10 @@ and move onto the next file. When you're finished with the second file you can
 run git diff --staged to see which files are already staged and git diff to
 see which are not. This allows you to quickly see and organize your logical
 separation of commits.
+
+Some situations when branches would be helpful in keeping my history organized
+are when you might want to try an experiment without changing your working
+master or when, in the case of the asteroids game, you might want to create an
+easy mode version of the game. Branches help by allowing you to create these
+different versions without having to start over or worry about breaking your
+master version.

@@ -26,3 +26,8 @@ master version.
 The diagrams help you visualize the branch structure by allowing you to see
 where each branch diverges from the master branch and therefore, also where the
 master may have gone ahead of your other branches.
+
+The result of merging two branches together is that they become one branch and
+placed in order of each commit's time-stamp. It is represented as the meeting
+of the two branches on the diagram because even though they are now one branch
+after merging, they still have separate histories and commit parents.

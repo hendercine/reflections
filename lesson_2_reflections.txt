@@ -31,3 +31,9 @@ The result of merging two branches together is that they become one branch and
 placed in order of each commit's time-stamp. It is represented as the meeting
 of the two branches on the diagram because even though they are now one branch
 after merging, they still have separate histories and commit parents.
+
+The pros and cons of Git's automatic merging vs. always doing merges manually
+are that when there no conflicts you can quickly commit your merge and move on
+which is definitely a pro. A con, however, is that when a conflict does occur
+there is no automatic way to decide which change to keep from which version and
+could take some time to figure out.

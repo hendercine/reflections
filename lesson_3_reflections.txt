@@ -1,1 +1,1 @@
-
+You can use a remote repository instead of a local one when you need to collaborate with other people or access your repository on multiple computers.

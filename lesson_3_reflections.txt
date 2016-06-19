@@ -1,1 +1,7 @@
-You can use a remote repository instead of a local one when you need to collaborate with other people or access your repository on multiple computers.
+You can use a remote repository instead of a local one when you need to
+collaborate with other people or access your repository on multiple computers.
+
+You might want to always pull changes manually rather than have Git
+automatically stay up-to-date with your remote repository because you never know
+whether or not your local repository may be ahead or behind the remote and you
+may lose changes that were made locally.

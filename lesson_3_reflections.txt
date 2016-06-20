@@ -13,3 +13,8 @@ Cloning could achieve this but attibution would have to be given manually and
 failure to do so could invite accusations of plagarism. A Branch is a is an off-
 shoot within a repository and without full push permission, you could never
 merge your branches with a remote.
+
+The benefit of having a copy of the last known state of the remote stored
+locally is that your repo is not behind when you begin working on it. I'm not
+sure what else to write here because, honestly, this section was a bit
+confusing.

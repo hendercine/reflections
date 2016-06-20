@@ -5,3 +5,11 @@ You might want to always pull changes manually rather than have Git
 automatically stay up-to-date with your remote repository because you never know
 whether or not your local repository may be ahead or behind the remote and you
 may lose changes that were made locally.
+
+The differences between Forks, Clones and Branches are that Forks are a feature
+of GitHub that allow to clone another author's repository and work on it as
+though it were your own, while also giving them credit as the original author.
+Cloning could achieve this but attibution would have to be given manually and
+failure to do so could invite accusations of plagarism. A Branch is a is an off-
+shoot within a repository and without full push permission, you could never
+merge your branches with a remote.

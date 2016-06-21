@@ -18,3 +18,6 @@ The benefit of having a copy of the last known state of the remote stored
 locally is that your repo is not behind when you begin working on it. I'm not
 sure what else to write here because, honestly, this section was a bit
 confusing.
+
+There are many ways to collaborate without using Git and GitHub but Git and
+GitHub make it a lot easier and less prone to error.

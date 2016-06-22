@@ -9,8 +9,8 @@ may lose changes that were made locally.
 The differences between Forks, Clones and Branches are that Forks are a feature
 of GitHub that allow to clone another author's repository and work on it as
 though it were your own, while also giving them credit as the original author.
-Cloning could achieve this but attibution would have to be given manually and
-failure to do so could invite accusations of plagarism. A Branch is a is an off-
+Cloning could achieve this but attribution would have to be given manually and
+failure to do so could invite accusations of plagiarism. A Branch is a is an off-
 shoot within a repository and without full push permission, you could never
 merge your branches with a remote.
 
@@ -21,3 +21,10 @@ confusing.
 
 There are many ways to collaborate without using Git and GitHub but Git and
 GitHub make it a lot easier and less prone to error.
+
+You would want to make changes in a separate branch rather than directly in
+the master when you're collaborating with someone who may have started the
+master or when you're experimenting with changes and you don't want to risk
+breaking the master. The benefit of this approach is that you can avoid
+accidentally overwriting important elements of files or having your work
+changes out from under you while collaborating.
